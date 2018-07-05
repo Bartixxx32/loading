@@ -1,0 +1,42 @@
+[
+	{
+		"useBackgroundColour" : "true",
+		"backgroundColour" : "10,10,10",
+		"useBackgroundImage" : "true",
+		"backgroundImagePath" : "images/backgroundImg4.jpg",
+		"useTextColour" : "false",
+		"textColour" : "0,204,0",
+		"useBoldText" : "false",
+		"serverTitle" : "Need RP",
+		"playAudioInBackground" : "true",
+		"audioPath" : "audio/gtavthemesong.ogg",
+		"audioVolume" : "0.05"
+	},
+	{
+		"rule1" : "Zakaz RDM oraz VDM",
+		"rule2" : "Musisz posiadac mikrofon",
+		"rule3" : "Nie wykorzystuj bledow gry",
+		"rule4" : "Nie uzywaj cheatow",
+		"rule5" : "Graj uczciwie",
+		"rule6" : "Uzywaj /me i /do",
+		"rule7" : "Graczy lamiacych regulamin zglaszaj do admina"
+	},
+	{
+		"servers1" : "Discord: https://discord.gg/xnXwmGs",
+		"servers2" : "",
+		"servers3" : "Regulamin na naszym serverze Discord ",
+		"servers4" : "",
+		"servers5" : "Nieznajomosc regulaminu nie zwalnia cie z jego przestrzegania",
+		"servers6" : "",
+		"servers7" : "Jest to server Role-Play, Staraj sie grac uczciwie"
+	},
+	{
+		"content1" : "Mozliwosc wlasnego charakteru",
+		"content2" : "Kupno Wlasnego auta",
+		"content3" : "Policje, mechanikow, Medykow",
+		"content4" : "Duzo prac np: Rybak, gornik, dealer",
+		"content5" : "Banki i bankomaty",
+		"content6" : "Prawdziwe auta np: audi, porsche",
+		"content7" : "Prywatne Wiadomosci SMS"
+	}
+]

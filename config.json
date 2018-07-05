@@ -16,27 +16,27 @@
 		"rule1" : "Zakaz RDM oraz VDM",
 		"rule2" : "Musisz posiadac mikrofon",
 		"rule3" : "Nie wykorzystuj bledow gry",
-		"rule4" : "Nie uzywaj cheatow",
+		"rule4" : "Nie używaj chatów",
 		"rule5" : "Graj uczciwie",
-		"rule6" : "Uzywaj /me i /do",
-		"rule7" : "Graczy lamiacych regulamin zglaszaj do admina"
+		"rule6" : "Używaj /me i /do",
+		"rule7" : "Graczy łamiących regulamin zgłaszaj do admina"
 	},
 	{
 		"servers1" : "Discord: https://discord.gg/xnXwmGs",
 		"servers2" : "",
-		"servers3" : "Regulamin na naszym serverze Discord ",
+		"servers3" : "Regulamin na naszym serwerze Discord ",
 		"servers4" : "",
-		"servers5" : "Nieznajomosc regulaminu nie zwalnia cie ",
-		"servers6" : "z jego przestrzegania",
-		"servers7" : "Jest to server Role-Play, Staraj sie grac uczciwie"
+		"servers5" : "Przestrzegaj regulamin",
+		"servers6" : "",
+		"servers7" : "Jest to serwer Role-Play, Staraj sie grac uczciwie"
 	},
 	{
-		"content1" : "Mozliwosc wlasnego charakteru",
-		"content2" : "Kupno Wlasnego auta",
-		"content3" : "Policje, mechanikow, Medykow",
-		"content4" : "Duzo prac np: Rybak, gornik, dealer",
+		"content1" : "Możliwość stworzenia własnego charakteru",
+		"content2" : "Kupna własnego auta",
+		"content3" : "Policje, mechaników, medyków",
+		"content4" : "Dużo prac np.: Rybak, górnik, taksiarz ",
 		"content5" : "Banki i bankomaty",
 		"content6" : "Prawdziwe auta np: audi, porsche",
-		"content7" : "Prywatne Wiadomosci SMS"
+		"content7" : "Prywatne wiadomości SMS"
 	}
 ]

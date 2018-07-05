@@ -3,11 +3,11 @@
 		"useBackgroundColour" : "true",
 		"backgroundColour" : "10,10,10",
 		"useBackgroundImage" : "true",
-		"backgroundImagePath" : "images/backgroundImg4.jpg",
+		"backgroundImagePath" : "images/backgroundImg7.jpg",
 		"useTextColour" : "false",
 		"textColour" : "0,204,0",
 		"useBoldText" : "false",
-		"serverTitle" : "Need RP",
+		"serverTitle" : "NeedRP",
 		"playAudioInBackground" : "true",
 		"audioPath" : "audio/gtavthemesong.ogg",
 		"audioVolume" : "0.05"
